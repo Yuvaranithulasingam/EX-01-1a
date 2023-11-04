@@ -1,4 +1,4 @@
-# EX-01-1a  SUM OF TWO NUMBERS
+# EX-1(A)      SUM OF TWO NUMBERS
 
 ## AIM:
    To write a C program to find sum of two numbers.
