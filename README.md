@@ -1,7 +1,7 @@
 # EX-01-1a  SUM OF TWO NUMBERS
 
 ## AIM:
-   To write a C program to find sum of three numbers.
+   To write a C program to find sum of two numbers.
 
 ## ALGORITHM:
 1. Start the program.
