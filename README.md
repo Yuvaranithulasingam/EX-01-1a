@@ -11,6 +11,7 @@
 5. Stop the program.
 
 ## PROGRAM:
+```
 #include <stdio.h>
 int main()
 {    
@@ -20,7 +21,7 @@ int main()
      printf("Sum of %d and %d=%d", number1, number2, sum);
     return 0;
 }
-
+```
 ## OUTPUT:
 ![image](https://github.com/Yuvaranithulasingam/EX-01-1a/assets/121418522/abe01f9d-fa20-42d5-8b20-3d7df44ef9ca)
 
